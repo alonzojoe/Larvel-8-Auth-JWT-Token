@@ -50,11 +50,11 @@ This project demonstrates user registration, login, userinfo, token refreshing, 
 6. You're ready to go! Visit http://localhost:8000 in your browser to access the application.
 
 API Endpoints 
-POST /api/register - Register a new user.
-POST /api/login - Authenticate user and generate access token.
-GET /api/user - Get authenticated user information.
-POST /api/refresh - Refresh the access token using the refresh token.
-POST /api/logout - Log out the user and invalidate the token.
+-POST /api/register - Register a new user.
+-POST /api/login - Authenticate user and generate access token.
+-POST /api/user - Get authenticated user information.
+-POST /api/refresh - Refresh the access token using the refresh token.
+-POST /api/logout - Log out the user and invalidate the token.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
