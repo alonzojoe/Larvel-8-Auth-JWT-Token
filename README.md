@@ -5,10 +5,16 @@ This project demonstrates user registration, login, userinfo, token refreshing, 
 ## Features
 
 - User registration: Allows users to create an account with their name, email, and password.
+  
 - User login: Provides an endpoint to authenticate users and generate JWT access tokens.
+  
 - User info: Retrieves user information based on the authenticated token.
+  
 - Token refreshing: Allows refreshing the access token using a refresh token.
+  
 - Sign out: Logs out the user and invalidates the token.
+
+![Postman Test](postman.PNG)
 
 ## Prerequisites
 
@@ -58,10 +64,7 @@ API Endpoints
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
-![Postman Test](postman.PNG)
 
-License
 
-Feel free to customize the content and structure of the README.md file according to your project's specific details. Provide clear instructions on how to set up the project, list the available API endpoints, and mention any prerequisites or requirements. Additionally, include information about contributing and the license under which the project is distributed.
 
 
